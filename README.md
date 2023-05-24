@@ -23,21 +23,15 @@ The project consists of the following key steps:
 **Project Repository**
 The project repository can be found on GitHub at https://github.com/santhulak/Insurance_Premium_Prediction. It contains the following files:
 
-insurance.csv: This dataset used for training and testing the model.
-preprocessing.ipynb: Jupyter Notebook containing the data preprocessing steps.
-model_training.ipynb: Jupyter Notebook containing the model training and evaluation process.
-app.py: Streamlit application code for deploying the model.
-requirements.txt: File listing the required Python packages for running the application.
-README.md: Detailed information about the project, including instructions for running the application.
-Deployment
-The model has been deployed using Streamlit Cloud, providing an accessible web interface for users to predict their insurance premiums. You can access the deployed application at [link to the deployed app].
+- insurance.csv: This dataset used for training and testing the model.
+- Insurance_Premium_Prediction.ipynb: Jupyter Notebook containing the data preprocessing, model training and evaluation process.
+- app.py: Streamlit application code for deploying the model.
+- requirements.txt: File listing the required Python packages for running the application.
+- README.md: Detailed information about the project, including instructions for running the application.
 
-Conclusion
+**Deployment**
+The model has been deployed using Streamlit Cloud, providing an accessible web interface for users to predict their insurance premiums. You can access the deployed application at https://santhulak-insurance-premium-prediction-app-tt6y3d.streamlit.app/
+
+**Conclusion**
 The insurance premium prediction project demonstrates the application of machine learning techniques to estimate insurance costs based on various factors. The deployed application provides a user-friendly interface for obtaining personalized premium predictions.
 
-
-
-
-
-Deployment Link:
-https://santhulak-insurance-premium-prediction-app-tt6y3d.streamlit.app/
