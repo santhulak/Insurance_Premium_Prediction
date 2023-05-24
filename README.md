@@ -8,7 +8,7 @@ This project focuses on predicting insurance premiums using machine learning tec
 
 The project consists of the following key steps:
 
-**Data Collection: ** The dataset was obtained from Kaggle, which includes features such as age, BMI, number of children, smoker status, region, and insurance charges.
+**Data Collection:** The dataset was obtained from Kaggle, which includes features such as age, BMI, number of children, smoker status, region, and insurance charges.
 
 **Data Preprocessing:** The collected data was preprocessed to handle missing values, categorical variables, and feature scaling. Exploratory data analysis (EDA) was performed to gain insights into the data.
 
